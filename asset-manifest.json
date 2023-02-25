@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sabzishabzi/static/css/main.f4c904de.css",
-    "main.js": "/sabzishabzi/static/js/main.fe3566f4.js",
+    "main.css": "/sabzishabzi/static/css/main.768bce03.css",
+    "main.js": "/sabzishabzi/static/js/main.4d998f75.js",
     "static/media/pexels-geraud-pfeiffer-6605343.jpg": "/sabzishabzi/static/media/pexels-geraud-pfeiffer-6605343.b2c98adc6e75ab70aca7.jpg",
     "static/media/pexels-marta-dzedyshko-7693952.jpg": "/sabzishabzi/static/media/pexels-marta-dzedyshko-7693952.83b57df3e9043f201b2b.jpg",
     "static/media/instagra-icon.jpg": "/sabzishabzi/static/media/instagra-icon.dc076ef9ea4b6ce62810.jpg",
@@ -9,11 +9,11 @@
     "static/media/tiktok-icon.jpg": "/sabzishabzi/static/media/tiktok-icon.71bcaf19f606c5047246.jpg",
     "static/media/youtube-icon.jpg": "/sabzishabzi/static/media/youtube-icon.621f838d8f1da661effd.jpg",
     "index.html": "/sabzishabzi/index.html",
-    "main.f4c904de.css.map": "/sabzishabzi/static/css/main.f4c904de.css.map",
-    "main.fe3566f4.js.map": "/sabzishabzi/static/js/main.fe3566f4.js.map"
+    "main.768bce03.css.map": "/sabzishabzi/static/css/main.768bce03.css.map",
+    "main.4d998f75.js.map": "/sabzishabzi/static/js/main.4d998f75.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4c904de.css",
-    "static/js/main.fe3566f4.js"
+    "static/css/main.768bce03.css",
+    "static/js/main.4d998f75.js"
   ]
 }
