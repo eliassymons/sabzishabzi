@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sabzishabzi/static/css/main.dda12599.css",
+    "main.css": "/sabzishabzi/static/css/main.a4526fc8.css",
     "main.js": "/sabzishabzi/static/js/main.4d998f75.js",
     "static/media/pexels-geraud-pfeiffer-6605343.jpg": "/sabzishabzi/static/media/pexels-geraud-pfeiffer-6605343.b2c98adc6e75ab70aca7.jpg",
     "static/media/pexels-marta-dzedyshko-7693952.jpg": "/sabzishabzi/static/media/pexels-marta-dzedyshko-7693952.83b57df3e9043f201b2b.jpg",
@@ -9,11 +9,11 @@
     "static/media/tiktok-icon.jpg": "/sabzishabzi/static/media/tiktok-icon.71bcaf19f606c5047246.jpg",
     "static/media/youtube-icon.jpg": "/sabzishabzi/static/media/youtube-icon.621f838d8f1da661effd.jpg",
     "index.html": "/sabzishabzi/index.html",
-    "main.dda12599.css.map": "/sabzishabzi/static/css/main.dda12599.css.map",
+    "main.a4526fc8.css.map": "/sabzishabzi/static/css/main.a4526fc8.css.map",
     "main.4d998f75.js.map": "/sabzishabzi/static/js/main.4d998f75.js.map"
   },
   "entrypoints": [
-    "static/css/main.dda12599.css",
+    "static/css/main.a4526fc8.css",
     "static/js/main.4d998f75.js"
   ]
 }
